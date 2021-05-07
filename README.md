@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @UzumakiUchiha
+- 👀 I’m interested in working Freelacing work for website creation...
+- 🌱 I’m currently learning React and implemeting it on a site...
+- 📫 Can Contact me on enail -(zoyebk07@gmail.com) ...
+
+<!---
+UzumakiUchiha/UzumakiUchiha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
